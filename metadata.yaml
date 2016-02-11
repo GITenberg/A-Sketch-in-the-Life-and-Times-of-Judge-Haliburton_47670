@@ -1,0 +1,19 @@
+_repo: A-Sketch-in-the-Life-and-Times-of-Judge-Haliburton_47670
+creator:
+  author:
+    agent_name: Haliburton, Robert Grant
+    gutenberg_agent_id: '44421'
+    url: http://www.gutenberg.org/2009/agents/44421
+description: ''
+gutenberg_issued: '2014-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haliburton, Thomas Chandler, 1796-1865'
+title: A Sketch in the Life and Times of Judge Haliburton
+url: http://www.gutenberg.org/ebooks/47670
